@@ -1,0 +1,4 @@
+You have to create two fields in gravity form editor. 
+
+country. Pass parameter by enabling dynamucally puplating field country_name
+City. Pass parameter by enabling dynamucally puplating field city_name
